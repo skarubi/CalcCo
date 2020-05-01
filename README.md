@@ -1,7 +1,6 @@
 
 This is a Simple Calculator consisiting of two main functions: 
-1.One is of Calculation of addition, subtraction, multiplication and division of two numbers (They are named as var_1 and var_2). This calculation can accept both whole numbers and decimals.
-2.The other is a Factorial of a single number (Named as var_1). This function can only calculate factorial of integer values, which means it can not accept decimal numbers for computation.
+One is of Calculation of addition, subtraction, multiplication and division of two numbers (They are named as var_1 and var_2). This calculation can accept both whole numbers and decimals.The other is a Factorial of a single number (Named as var_1). This function can only calculate factorial of integer values, which means it can not accept decimal numbers for computation.
 Testing process:
 1.You will need to use an API client e.g. Postman to run the URL's and receive values for the Calculator. 
 2.Download the postman application into your local machine
