@@ -12,9 +12,7 @@ Testing process:
 -Multiplication: http://127.0.0.1:5000/Multiply, Enter var_1 and var_2 as keys and enter corresponding values such as 2, 3. {status:200, result:6.0}
 -Division: http://127.0.0.1:5000/Divide, Enter var_1 and var_2 as keys and enter corresponding values such as 6, 3. {status:200, result:2.0}
 -Factorial: http://127.0.0.1:5000/Factorial , enter var_1 as key, and enter a value say 3. Expected result {status:200, result:6} 
-Note: Set the Query Params (that is the values you would like worked on by the function) in the table below. Key column is var_1 and var_2 for Calculation and var_1 only for the factorial. Value are the values you would like to be worked on by the corresponding functions.
-5.Then click on Send.
-6. Result of the computation are dispalyed in the table below.
+Note: Set the Query Params (that is the values you would like worked on by the function) in the table below. Key column is var_1 and var_2 for Calculation and var_1 only for the factorial. Value are the values you would like to be worked on by the corresponding functions.Then click on Send.Result of the computation are dispalyed in the table below.
 
 
 
